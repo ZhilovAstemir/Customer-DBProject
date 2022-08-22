@@ -1,0 +1,10 @@
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\bin\Debug\CM.Customer.Database.dacpac
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\bin\Debug\CM.Customer.Database.dll
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\bin\Debug\CM.Customer.Database.pdb
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\obj\Debug\CM.Customer.Database.sqlproj.AssemblyReference.cache
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\obj\Debug\Model.xml
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\obj\Debug\refactor.xml
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\obj\Debug\postdeploy.sql
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\obj\Debug\predeploy.sql
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\obj\Debug\CM.Customer.Database.dll
+C:\Users\Amaliya\source\repos\CM.Customer.Database\CM.Customer.Database\obj\Debug\CM.Customer.Database.pdb
